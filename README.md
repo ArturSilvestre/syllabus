@@ -30,12 +30,12 @@ Planejmaneto de estudos técnicos
 
 ### Fazer o roteiro do AC classroom for UI Essentials
 
-- Unidade 1
-- Unidade 2
-- Unidade 3
-- Unidade 4
-- Unidade 5
-- Unidade 6
+- Vue Crash 1
+- Vue3 2
+- Components 3
+- Vuex Crash 4
+- Testing 5
+- Nuxt 6
 
 ## Cronograma
 
